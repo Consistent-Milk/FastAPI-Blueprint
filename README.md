@@ -12,3 +12,5 @@ Tools Used:
 3. Pydantic
 4. Alembic
 5. Postgresql
+
+Made by following this excellent tutorial on FastAPI: https://www.youtube.com/watch?v=0sOvCWFmrtA by Sanjeev Thiyagarajan.
